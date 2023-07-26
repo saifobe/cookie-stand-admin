@@ -1,6 +1,8 @@
 import React from 'react'
 import { hours } from '@/data'
 
+
+
 function total(arr){
     let totalHours = 0
     for(let i = 0; i<arr.length;i++){
